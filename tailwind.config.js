@@ -3,7 +3,7 @@ const colors = {
 }
 
 module.exports = {
-  purge: ["./src/css/*.css", "./dist/*.html"],
+  purge: ['./src/css/*.css', './dist/*.html'],
   theme: {
     colors,
   },
