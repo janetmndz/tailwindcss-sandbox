@@ -6,10 +6,11 @@
   "author": "janetmndz",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^10.4.4",
     "browser-sync": "^2.27.9",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.1",
-    "gulp-sass": "^5.1.0",
+    "postcss-import": "^14.1.0",
     "tailwindcss": "^3.0.23"
   }
 }
